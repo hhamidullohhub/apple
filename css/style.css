@@ -13,10 +13,13 @@ a {
     display: inline-block;
 }
 
+body {
+    background-color: rgb(171, 62, 188);
+}
+
 .container {
     width: 1140px;
-    margin: 0 auto;
-}
+    margin: 0 auto;}
 
 .box {
     width: 330px;
@@ -96,6 +99,10 @@ a {
 
 .soat1 {
     color: white;
+}
+
+.soat2 {
+    background-color: white;
 }
 
 .boxs5 {
