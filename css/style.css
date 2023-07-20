@@ -101,6 +101,12 @@ body {
     color: white;
 }
 
+.soat1:hover {
+    color: red;
+    transition: 1s;
+    cursor: progress;
+}
+
 .soat2 {
     color:white;
     text-transform: capitalize;
