@@ -102,9 +102,9 @@ body {
 }
 
 .soat1:hover {
-    color: red;
+    color: rgb(39, 37, 37);
     transition: 1s;
-    cursor: progress;
+    cursor: wait;
 }
 
 .soat2 {
